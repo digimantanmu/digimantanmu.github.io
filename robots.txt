@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://digimantanmu.github.io/sitemap.xml
